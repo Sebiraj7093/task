@@ -8,4 +8,7 @@ pasta
 chiken
 
 
+pizza
+beans
+
 thank you
